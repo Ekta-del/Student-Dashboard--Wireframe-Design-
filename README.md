@@ -15,13 +15,3 @@ Balsamiq: For wireframe design.
 **Installation**
 Clone the repository:
 git clone https://github.com/Ekta-del/Student-Dashboard-Wireframe-Design.git
-
-**Install Dependencies**
-If you decide to implement the wireframe into a functional application, you may need to install dependencies.
-Initialize a new project:
-npm init -y
-Install necessary packages (example):
-npm install react react-dom
-
-**Run your project **
-npm start
