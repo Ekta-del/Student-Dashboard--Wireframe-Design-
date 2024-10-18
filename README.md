@@ -4,10 +4,10 @@ A streamlined wireframe design for a student-centric dashboard, created for Accr
 The wireframe has been designed using **Balsamiq**, a rapid low-fidelity wireframing tool that allows for intuitive, user-friendly interface mockups. Balsamiq was chosen to prioritize simplicity and ease of iteration, ensuring a clean and effective user experience.
 
 **Features**
-User-Friendly Interface: Intuitive design for easy navigation.
-Upcoming Reminders: Display of upcoming deadlines and important dates.
-Active Group Projects: Overview of current collaborative projects.
-Study Room: Virtual space for study sessions and discussions.
+-User-Friendly Interface: Intuitive design for easy navigation.
+-Upcoming Reminders: Display of upcoming deadlines and important dates.
+-Active Group Projects: Overview of current collaborative projects.
+-Study Room: Virtual space for study sessions and discussions.
 
 **Technologies Used**
 Balsamiq: For wireframe design.
